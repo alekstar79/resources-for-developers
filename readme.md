@@ -1,9 +1,4 @@
 <!--suppress HtmlUnknownAnchorTarget -->
-<style>
-  .text-right {
-    text-align: right;
-  }
-</style>
 
 ![Repository Banner](headerimage.png)
 
@@ -99,7 +94,7 @@
 | [Boring Avatars](https://boringavatars.com/)                                                             | SVG random, cutely avatars collections                                                                                                                     |
 | [Html to Design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design)              | Convert any website into fully editable Figma designs                                                                                                      |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -149,7 +144,7 @@
 | [FontBolt](https://www.fontbolt.com/)                                                                    | Discover and generate your favorite fonts from pop culture.                                                   |
 | [Fontshare](https://www.fontshare.com/)                                                                  | Fontshare is a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all. |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -229,7 +224,7 @@
 | [Color Shades Generator](https://mdigi.tools/color-shades/)                                              | We can quickly generate color shades of our favorite colors or any colors, to create templates or css components with multiple color shades and more useful tools available on same site |
 | [Huemint](https://huemint.com/)                                                                          | Huemint uses machine learning to create unique color schemes for your brand, website or graphic                                                                                          |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -298,7 +293,7 @@
 | [Sargam Icons](https://sargamicons.com/)                                                                 | A collection of 275+ open-source icons available for Figma, SVGs, and React.                                                                                |
 | [Icon buddy](https://iconbuddy.app/)                                                                     | A collection of 100K+ open-source SVG icons, fully customizable for designers and developers.                                                               |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -318,7 +313,7 @@
 | [Free Logo Maker](https://www.namecheap.com/logo-maker/)                                                 | Fast, All-in-One Logo Generator                           |
 | [LOGOwine](https://www.logo.wine/)                                                                       | Brand Logos Free Download in SVG Vector & PNG File Format |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -337,7 +332,7 @@
 | [Maskable.app Editor](https://maskable.app/editor/)                                                      | Generate maskable PWA icons based on your existing icon                                                                    |
 | [Favicon Generator](https://favicon.inbrowser.app/)                                                      | Generate website's favicon assets. SVG, maskable, image minified supported. Pure frontend. No privacy risk. Fast.          |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -371,7 +366,7 @@
 | [React Icons](https://react-icons.github.io/react-icons/)                                                | An Open Source and free Svg Icon Library, it is a collection of your favorite icon libraries like Font Awesome and Material Icons to provide you with a wide range of SVG icons to choose from. |
 | [Unicopy](https://unicopy.cc/)                                                                           | Copy unicode characters and symbols!                                                                                                                                                            |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -420,7 +415,7 @@
 | [Openverse](https://wordpress.org/openverse/)                                                            | Openverse is a search engine for openly-licensed media                                                                                                                      |
 | [ISO Republic](https://isorepublic.com/)                                                                 | Get Thousands of Free High-Resolution Stock CC0 Photos                                                                                                                      |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -441,7 +436,7 @@
 | [SplitShire](https://www.splitshire.com/)                                                                | Beautiful & exclusive free stock videos & photos                                |
 | [Free-Stock-Video](https://free-stock.video)                                                             | Free Footage Stock Videos                                                       |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -461,7 +456,7 @@
 | [Pixabay](https://pixabay.com/music/)                                                                    | Free music downloads for your project like Youtube videos, Music, Vlog, Film, Podcast etc.             |
 | [Unminus](https://www.unminus.com/)                                                                      | Free Premium Music for Your Projects 🎁 Royalty Free. Cleared for YouTube.                             |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -499,7 +494,7 @@
 | [Vector](https://vector.ma/)                                                                             | Awesome website for all kinds of Moroccan vectors.                                                                |
 | [Heazy](https://app.heazy.studio/)                                                                       | Unique vector assets within seconds.                                                                              |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -529,7 +524,7 @@
 | [Pika](https://pika.style)                                                                               | Instantly create browser mockups and beautiful images for marketing, blog post and more                                                                                                                |
 | [Lunacy](https://icons8.com/lunacy)                                                                      | Create mockups from scratch for free                                                                                                                                                                   |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -569,7 +564,7 @@
 | [Horizon UI](https://horizon-ui.com/)                                                                     | Trendiest open source Admin Template for React                                                 |
 | [KeenThemes](https://keenthemes.com/)                                                                     | Free and Pro Html/Css3, Bootstrap5, Vue, React, Laravel templates                              |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -643,7 +638,7 @@
 | [UnoCSS](https://unocss.dev/)                                                                            | UnoCSS is the instant atomic CSS engine, that is designed to be flexible and extensible. The core is un-opinionated, and all the CSS utilities are provided via presets.  |
 | [StyleX](https://stylexjs.com/)                                                                          | StyleX is a simple, easy-to-use JavaScript syntax and compiler for styling web apps.                                                                                      |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -658,7 +653,7 @@
 | [BEM](http://getbem.com/)                                                                                | Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development. |
 | [SMACSS](http://smacss.com/)                                                                             | SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process.      |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -695,7 +690,7 @@
 | [AOS](https://michalsnik.github.io/aos/)                                                                 | Animate On Scroll Library.                                                                                                                                                     |
 | [Animatopy](https://sarthology.github.io/Animatopy/)                                                     | Just-add-water CSS animations snippets                                                                                                                                         |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -741,7 +736,7 @@
 | [Vanta.js](https://www.vantajs.com/)                                                                     | Animated website backgrounds in a few lines of code.                                                                                       |
 | [Splitting.js](https://splitting.js.org/)                                                                | Splitting creates elements and adds CSS variables to unlock amazing possibilities for animating text, grids, and more!                     |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -763,7 +758,7 @@
 | [Nivo](https://nivo.rocks/)                                                                              | Nivo provides supercharged React components to easily build dataviz apps, it's built on top of d3. Also comes with server side rendering ability and fully declarative charts. |
 | [Echarts](https://echarts.apache.org/en/index.html)                                                      | An Open Source JavaScript Visualization Library with declarative syntax for Rapid Construction of Web-based Visualization                                                      |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -833,7 +828,7 @@
 | [Pines](https://devdojo.com/pines)                                                                             | Pines is a library of animations, sliders, tooltips, accordions, modals, and more! It's a set of UI elements that can be copy and pasted into any Alpine and Tailwind projects.      |
 | [Kuma UI](https://www.kuma-ui.com/)                                                                            | With Kuma UI's headless, zero-runtime UI components, build top-performing websites effortlessly, while enjoying the best developer experience. Say hello to the future of CSS-in-JS. |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -910,7 +905,7 @@
 | [React Aria](https://react-spectrum.adobe.com/react-aria/)                                                                | A library of React Hooks that provides accessible UI primitives for your design system.                                                                           |
 | [shadcn/ui](https://ui.shadcn.com/)                                                                                       | Beautifully designed components built with Radix UI and Tailwind CSS.                                                                                             |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -963,7 +958,7 @@
 | [Vuetensils](https://vuetensils.stegosource.com/)                                                                   | Vuetensils is a lightweight component library for Vue 2.x that brings some of most common UI features, but only the bare minimum styles to avoid adding any extra bloat. You can work on the branding, and don't have to worry about the accessibility. |
 | [NuxtLabs UI](https://ui.nuxtlabs.com/getting-started)                                                              | Fully styled and customizable components for Nuxt.                                                                                                                                                                                                      |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -991,7 +986,7 @@
 | [Taiga UI](https://taiga-ui.dev/)                                                                        | Taiga UI is fully-treeshakable Angular UI Kit consisting of multiple base libraries and several add-ons. |
 | [ngx-admin](https://akveo.github.io/ngx-admin/)                                                          | Admin template based on Angular 10+ and Nebular                                                          |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -1013,7 +1008,7 @@
 | [Skeleton](https://www.skeleton.dev/)                                                                    | Skeleton is an open source UI toolkit built with Svelte + Tailwind that allows you to create reactive web interfaces using Svelte + Tailwind CSS. |
 
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -1036,7 +1031,7 @@
 | [Moti](https://moti.fyi/)                                                                                | Moti is the universal animation package for React Native                                                                                                       |
 | [Tamagui](https://tamagui.dev/)                                                                          | Universal React design systems that optimize for native & web.                                                                                                 |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -1086,7 +1081,7 @@
 | [Patterfly](https://www.patternfly.org/)                                                                 | PatternFly is an open source design system from Red Hat, Inc.                                                                                         |
 | [Patterns](https://www.patterns.dev)                                                                     | A resource to improve on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.                     |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -1169,7 +1164,7 @@
 | [Scrollbar.app](https://scrollbar.app)                                                                   | Simple online editor for creating custom CSS scrollbars                                                                                                                                                                                                                                                               |
 | [GrapesJS](https://grapesjs.com/)                                                                        | Open-source, multi-purpose, Web Builder Framework which combines different tools and features with the goal to help you (or users of your application) to build HTML templates without any knowledge of coding.                                                                                                       |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -1197,7 +1192,7 @@
 | [Google Web Designer](https://webdesigner.withgoogle.com/)                                               | Create engaging, interactive HTML5-based designs and motion graphics that can run on any device. |
 | [Origami Studio](https://origami.design)                                                                 | Interactive interface design tool created by Facebook: For mac only                              |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -1255,7 +1250,7 @@
 | [Landing Gallery](https://www.landing.gallery/)                                                          | Home of the best landing page design inspiration.                                                                                                                                                                                                                                                    |
 | [a-fresh.website](https://a-fresh.website)                                                               | Hand—picked website and component inspiration library.                                                                                                                                                                                                                                               |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -1287,7 +1282,7 @@
 | [Jpeg.io](https://www.jpeg.io)                                                                           | Convert any major image format into a highly optimized JPEG                                                    |
 | [CompressImage.io](https://compressimage.io)                                                             | Compress JPG and PNG images. No Limits. Bulk Conversion. Convert to WebP. Works Offline                        |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -1335,7 +1330,7 @@
 | [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)                                     | Formats and colors JSON content for better readability. It can also collapse and expand nested structures.                                                                                      |
 | [SEO Minion](https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi?hl=en)                                             | A SEO tool that includes features like on-page SEO analysis, broken link checking, and SERP preview and more.                                                                                   |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -1370,7 +1365,7 @@
 | [Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)                                            | Identify technologies used on websites              |
 | [Fake Filler](https://addons.mozilla.org/en-US/firefox/addon/fake-filler/)                                          | Fill out web forms with dummy data                  |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -1382,7 +1377,7 @@
 |----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | [Leonardo.Ai](https://leonardo.ai/)                                                                      | Leonardo AI is an AI-powered design tool that can help you create designs based on reference images. |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
@@ -1450,6 +1445,6 @@
 | [DebugBear Speed Test](https://www.debugbear.com/test/website-speed)                                     | Test and optimize page load speed                                                                                                                                 |
 | [Code Beautify](https://codebeautify.org/)                                                               | Free Online Tools like Code Beautifiers, Code Formatters, Editors, Viewers, Minifier, Validators, Converters for Developers                                       |
 
-<div class="text-right">
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
